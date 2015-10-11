@@ -1,3 +1,3 @@
 Meteor.publish('excuses', function() {
-  return Excuses.find();
+    return Excuses.find();
 });

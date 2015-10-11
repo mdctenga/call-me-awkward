@@ -1,1 +1,0 @@
-var Excuses = new Mongo.Collection('Excuses');
